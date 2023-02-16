@@ -1,5 +1,7 @@
 # VoltorbFlip
-
+# AVIS AU CHARLEUR QUI S'EST PAS DECO :
+# Quand on utilise les PC de Stan, on se déconnnecte :/ 
+# http://youareanidiot.org
 This is an online recreation of the Voltorb Flip game that appeared in the Game 
 Corner in Korean and Western releases of Pokémon HeartGold and SoulSilver. 
 As an avid Pokémon fan who enjoys puzzle games, I decided to recreate the 
