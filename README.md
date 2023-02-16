@@ -1,7 +1,7 @@
 # VoltorbFlip
 # AVIS AU CHARLEUR QUI S'EST PAS DECO :
 # Quand on utilise les PC de Stan, on se déconnnecte :/ 
-# http://youareanidiot.org
+# [Click here to know more](https://youareanidiot.cc/)
 # Evidemment, j'ai ajouté deux trois trucs à ton repo github, tu pourras les supprimer quand tu voudras. (le fichier bat sera sans doute reconnu comme un virus par ton antivirus)
 # Je t'ai déconnnecté de github Desktop au passage 😉
 
